@@ -1,0 +1,65 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Unity/VS stuff
+Library
+Temp
+Builds
+Assets/UnityVS
+Assets/UnityVS.meta
+obj
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+
+# Velocity stuff
+*.vlvl
+*.vdem
+*.vlvl.meta
+*.vdem.meta
+Ignore/
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+Assets/Ignore/
+
+# other stuff
+.idea
+Velocity.sln.DotSettings.user
+.vdem
+.vsav

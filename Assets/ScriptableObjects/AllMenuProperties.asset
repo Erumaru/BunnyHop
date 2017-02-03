@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a023c8dfb4ef26e4289fd95baab4e8df, type: 3}
+  m_Name: AllMenuProperties
+  m_EditorClassIdentifier: 
+  textDisplayPrefab: {fileID: 1300230072281250, guid: f3fe31d1dd0aec64e96e7e398996a484,
+    type: 2}
+  textDisplayLinePrefab: {fileID: 1477977907300928, guid: 69e50ff67dd3d4844b840f56806cb62c,
+    type: 2}
+  bugReportPrefab: {fileID: 1165504620970574, guid: d7b8e8ee049e7d8419e98f5914c70529,
+    type: 2}
+  demoListPrefab: {fileID: 1784234476449990, guid: 74fd4ff258e139b4cb983c85458896a1,
+    type: 2}
+  endLevelPrefab: {fileID: 1671944657354124, guid: f7ddce601584a4e4fa2fa7abb390dddb,
+    type: 2}
+  escWindowPrefab: {fileID: 1503488842624610, guid: 35cb295a88f8e3249981fb735773f39b,
+    type: 2}
+  fileWindowPrefab: {fileID: 1219720203823272, guid: 593617cd91e55434faa98fa184193122,
+    type: 2}
+  gameSelectionPrefab: {fileID: 1565868894534430, guid: 65f5a299353e9d94ab71dbe17110f7ea,
+    type: 2}
+  leaderboardWindowPrefab: {fileID: 195980, guid: eea892b2a0a20c64db4ffb327a32c794,
+    type: 2}
+  loginWindowPrefab: {fileID: 1077725731317718, guid: 195a9d24609acf7419db957cd8d7a666,
+    type: 2}
+  mainMenuPrefab: {fileID: 1835944438092460, guid: e1e24e769f1f7be4895f8a98c3282673,
+    type: 2}
+  newPlayerWindow: {fileID: 1158423609820914, guid: e1c76ef15d21ba3438fd72aa0f44aaf9,
+    type: 2}
+  playWindow: {fileID: 1172769785643108, guid: bc42f5f4aaf123c4f8172e68ab26fd45, type: 2}
+  settingsWindowPrefab: {fileID: 1512094930078886, guid: 439d989b0ba41fb4c85cd2e24f5ed582,
+    type: 2}
